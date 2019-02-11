@@ -1,0 +1,16 @@
+<gradebook>
+  <courseName>CS1</courseName>
+  <student fname="NO" lname="person">
+  <quiz grade="88"></quiz><quiz grade="73"></quiz><quiz grade="95"></quiz>
+  <assignment grade="82">Poor Indentation</assignment><assignment grade="67">Need Practice</assignment>
+  <test grade="95">Well done</test><test grade="98"></test>
+  </student><student fname="Yes" lname="Man">
+  <quiz grade="80"></quiz><quiz grade="75"></quiz><quiz grade="93"></quiz>
+  <assignment grade="45">Barely passed</assignment><assignment grade="67">Need  much excercise</assignment>
+  <test grade="82">COuld have been better</test><test grade="56"></test>
+  </student><student fname="Judas" lname="KC">
+  <quiz grade="56"></quiz><quiz grade="89"></quiz><quiz grade="69"></quiz>
+  <assignment grade="99">Well Done</assignment><assignment grade="89">Room for improvement</assignment>
+  <test grade="75">Need Practice</test><test grade="80"></test>
+  </student>
+</gradebook>
